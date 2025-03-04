@@ -52,8 +52,7 @@ public class FichaNinjaNaoPrimitiva {
         String claLowerCaseG = claG.toLowerCase();
         System.out.println("caixa baixa: " + claLowerCaseG);
         System.out.println("Normal: " + claG);
-
-
+        System.out.println("Test new commit");
 
     }
 }
