@@ -41,7 +41,7 @@ public class IfElse {
 
         //if (condicao) {faca isso}
         // "&&" = E também
-        if (numMissoesK >= 1000 && idadeK >= 30) {
+        if (numMissoesK >= 1000 && idadeK >= 35) {
             System.out.println("Kakashi está pronto para concorrer à Hokage.");
         }
         //else (condicao) {faca isso}
