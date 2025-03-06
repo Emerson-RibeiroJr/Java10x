@@ -57,7 +57,6 @@ public class Desafio1 {
         //Missao - Nivel - Status
         String nomeMissaoKH = "Limpar estátuas dos Hokages";
         char rankMissaoKH = 'B';
-        boolean statusMissaoKH = false;
         //Ninja 2 - Visão do usuário
         System.out.println("Ninja 2");
         System.out.println("Nome: " + nameKH);
@@ -76,18 +75,10 @@ public class Desafio1 {
         }
         else {
             System.out.println("Conclua mais missões de Rank C.");
-        }
-        //Status da Missão com If Else
-        if (statusMissaoKH == true) {
-            System.out.println("Missão concluída!");
-        }
-        else {
             System.out.println("Missão incompleta.");
         }
 
-
-
-
+        System.out.println("--------------------------------------------"); //Pulando Linha
 
         //Ninja 3 - Shikamaru Nara - 17 anos
         String nameS = "Shikamaru";
