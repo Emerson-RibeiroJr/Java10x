@@ -3,7 +3,7 @@ package Desafios;
 public class Desafio1 {
     public static void main(String[] args) {
         /*
-        * Criar 3 ninjas da Vila da Folha (Konoha) e suas missoes
+        * Criar 2 ninjas da Vila da Folha (Konoha) e suas missoes
         * Ninja deve ter: nome (String), idade (int), missoesConcluidas (int)
         * Em missao: nomeMissao (String), rankMissao (char), statusMissao (boolean)
         * Níveis das missões (D, C, B, A, S)
@@ -77,16 +77,5 @@ public class Desafio1 {
             System.out.println("Conclua mais missões de Rank C.");
             System.out.println("Missão incompleta.");
         }
-
-        System.out.println("--------------------------------------------"); //Pulando Linha
-
-        //Ninja 3 - Shikamaru Nara - 17 anos
-        String nameS = "Shikamaru";
-        int idadeS = 17;
-        int missoesConcluidasS = 39;
-
-
-
-
     }
 }
