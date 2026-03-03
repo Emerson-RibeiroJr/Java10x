@@ -1,10 +1,7 @@
 # Java10x
 
-Aprendizados de Java.
-Desafios e mais.
-Conhecimentos aplicados.
+Aqui inicio meus projetos de aprendizado com Java, versionamento de códigos utilizando o Git via terminal, e o GitHub como plataforma de hospedagem.
 
 
-
-Também estou aprendendo a mexer com versionamento de código, e hoje 06.08.2025 estou utilizando uma máquina diferente, subirei os arquivos para o GitHub.
+Mais para frente irei melhorar esse arquivo readme.md e também irei colocanto atualizações.
 
